@@ -59,6 +59,7 @@
 
 		mViewPager.setAdapter(mAdapter);
 	}
+	}
 	
 详情可参看GallerySample
 
