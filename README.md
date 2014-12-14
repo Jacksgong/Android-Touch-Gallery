@@ -4,7 +4,7 @@
 `Android touch gallery with net、local file or cache.`
 
 ## 1. 申明
-	本项目library_gallery基于Truba的AndroidTouchGallery，往上封装一层，实现简单快速实现Viewpager上协调图片的缩放
+	本项目library_gallery基于Truba的AndroidTouchGallery，往上封装一层，实现简单快速实现Viewpager上协调图片的缩放以及数据来源的自动选择.
 	
 ## 2. 拓展部分
 
