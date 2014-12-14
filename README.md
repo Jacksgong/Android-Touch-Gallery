@@ -62,6 +62,12 @@
 	
 详情可参看GallerySample
 
+## 3. 运行效果
+![image](https://github.com/Jacksgong/Android-Touch-Gallery/raw/master/readme/demo1.png)
+![image](https://github.com/Jacksgong/Android-Touch-Gallery/raw/master/readme/demo2.png)
+![image](https://github.com/Jacksgong/Android-Touch-Gallery/raw/master/readme/demo3.png)
+![image](https://github.com/Jacksgong/Android-Touch-Gallery/raw/master/readme/demo4.png)
+![image](https://github.com/Jacksgong/Android-Touch-Gallery/raw/master/readme/demo5.png)
 License
 ===================
 Copyright (c) 2012-2013 Roman Truba, 2014 China Jacksgong
